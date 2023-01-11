@@ -9,3 +9,6 @@ container, volume, and number of containers they wish to sterilize and returns t
 
 2) test_sqlite_app.py
 Simple python app I created to test and show my sqlite skills. It creates a DB, create a table with dates and weights and then I find the average weight over the time entered.
+
+3) swift_lyrics_analyzer 
+This script breaks down lyrics of all songs on Taylor Swift's new album and writes the count of each word to a CSV file for further analysis. You can plug in any txt file with words/strings and the script will still perform as intended as long as you change the input file name/location at the top of the script. Lyrics were copy and pasted from the internet into a text file
