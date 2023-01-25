@@ -12,3 +12,6 @@ Simple python app I created to test and show my sqlite skills. It creates a DB, 
 
 3) swift_lyrics_analyzer.py
 This python script breaks down lyrics of all songs on Taylor Swift's new album and writes the count of each word to a CSV file for further analysis. You can plug in any txt file with words/strings and the script will still perform as intended as long as you change the input file name/location at the top of the script. Lyrics were copy and pasted from the internet into a text file
+
+4) metacritic_scraper.py
+This script was written in Python. It is a BeautifulSoup web scraper for the website metacritic and grabs the top 100 Xbox One games and their ratings. The results are then exported to a CSV.
